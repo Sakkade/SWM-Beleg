@@ -1,0 +1,4 @@
+Sensorhardware: https://www.infsoft.de/technologie/hardware
+
+http://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/is-management/Systementwicklung/Vorgehensmodell/Spiralmodell
+https://de.ryte.com/wiki/Spiralmodell
