@@ -1,4 +1,9 @@
 Sensorhardware: https://www.infsoft.de/technologie/hardware
 
+Spiralmodell:
 http://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/is-management/Systementwicklung/Vorgehensmodell/Spiralmodell
 https://de.ryte.com/wiki/Spiralmodell
+
+Prototyping Phasenmodell:
+http://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/is-management/Systementwicklung/Vorgehensmodell/Prototyping/index.html
+http://www.inztitut.de/blog/glossar/prototyping-phasenmodell/
