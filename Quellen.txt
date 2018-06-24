@@ -7,3 +7,14 @@ https://de.ryte.com/wiki/Spiralmodell
 Prototyping Phasenmodell:
 http://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/is-management/Systementwicklung/Vorgehensmodell/Prototyping/index.html
 http://www.inztitut.de/blog/glossar/prototyping-phasenmodell/
+
+Scrum:
+http://scrum-master.de/Was_ist_Scrum/Scrum_auf_einer_Seite_erklaert
+http://agiles-projektmanagement.org/scrum-vorteile-nachteile/
+
+XP:
+https://blog.seibert-media.net/blog/2005/05/01/extreme-programming-vorgehensmodell-zur-software-entwicklung-bei-seibertmedia/
+
+Allgemein:
+http://www.techsphere.de/pageID=pm03.html
+
