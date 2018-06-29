@@ -1,9 +1,10 @@
 # SWM-Beleg (Deadline: 20.07.2018)
 
-Link zur Google Doc:
-https://docs.google.com/document/d/19zE7fhhQI7Y1Ty0qnh6ty4jX-irJDQMZka1sXlx_azY/edit?usp=sharing
+Google Doc **Beleg**: https://docs.google.com/document/d/1HSEoD9UevBvu5yBDi8HsIvd5CoDwWpLpUObAO9XbNPk/edit?usp=sharing <br />
+Vorgehens-/Phasenmodelle:
+https://docs.google.com/document/d/19zE7fhhQI7Y1Ty0qnh6ty4jX-irJDQMZka1sXlx_azY/edit?usp=sharing <br />
 Kosten:
-https://docs.google.com/document/d/1fu6oNlA5TNal722LnXKVK3gZz2XvHXD0r_CzxqWxUjM/edit?usp=sharing
+https://docs.google.com/document/d/1fu6oNlA5TNal722LnXKVK3gZz2XvHXD0r_CzxqWxUjM/edit?usp=sharing <br />
 
 ## Inhalt
 * Arbeitspakete
