@@ -2,6 +2,8 @@
 
 Link zur Google Doc:
 https://docs.google.com/document/d/19zE7fhhQI7Y1Ty0qnh6ty4jX-irJDQMZka1sXlx_azY/edit?usp=sharing
+Kosten:
+https://docs.google.com/document/d/1fu6oNlA5TNal722LnXKVK3gZz2XvHXD0r_CzxqWxUjM/edit?usp=sharing
 
 ## Inhalt
 * Arbeitspakete
