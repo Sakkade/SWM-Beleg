@@ -15,6 +15,12 @@ http://agiles-projektmanagement.org/scrum-vorteile-nachteile/
 XP:
 https://blog.seibert-media.net/blog/2005/05/01/extreme-programming-vorgehensmodell-zur-software-entwicklung-bei-seibertmedia/
 
+Risiko:
+https://www.kayenta.de/training-seminar/artikel/risikomanagement-massnahmen-richtig-planen-und-erfolgreich-umsetzen.html
+
 Allgemein:
 http://www.techsphere.de/pageID=pm03.html
-
+https://www.medien.ifi.lmu.de/lehre/ws0607/mmi1/essays/Giovanni-Alunni.xhtml
+https://www.hdm-stuttgart.de/stage/mediafiles/1997/sonstiges/Indoor_Positioning_Technologien_fuer_mobile_Endgeraete_Sommer-Jonathan.pdf
+https://www.infsoft.de/anwendungsbeispiele
+https://www.indoornavigation.de/
