@@ -11,6 +11,8 @@ http://www.inztitut.de/blog/glossar/prototyping-phasenmodell/
 Scrum:
 http://scrum-master.de/Was_ist_Scrum/Scrum_auf_einer_Seite_erklaert
 http://agiles-projektmanagement.org/scrum-vorteile-nachteile/
+https://www.scrumguides.org/docs/scrumguide/v1/Scrum-Guide-DE.pdf
+https://www.business-wissen.de/artikel/agiles-projektmanagement-so-funktioniert-scrum/
 
 Scrum mit Wasserfallmodell für die Analyse- und Entwurfsphase
 https://de.slideshare.net/axxessio/scrum-vs-wasserfall
