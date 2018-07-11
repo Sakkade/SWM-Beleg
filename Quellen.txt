@@ -12,6 +12,9 @@ Scrum:
 http://scrum-master.de/Was_ist_Scrum/Scrum_auf_einer_Seite_erklaert
 http://agiles-projektmanagement.org/scrum-vorteile-nachteile/
 
+Scrum mit Wasserfallmodell für die Analyse- und Entwurfsphase
+https://de.slideshare.net/axxessio/scrum-vs-wasserfall
+
 XP:
 https://blog.seibert-media.net/blog/2005/05/01/extreme-programming-vorgehensmodell-zur-software-entwicklung-bei-seibertmedia/
 
