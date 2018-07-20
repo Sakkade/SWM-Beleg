@@ -30,3 +30,6 @@ https://www.medien.ifi.lmu.de/lehre/ws0607/mmi1/essays/Giovanni-Alunni.xhtml
 https://www.hdm-stuttgart.de/stage/mediafiles/1997/sonstiges/Indoor_Positioning_Technologien_fuer_mobile_Endgeraete_Sommer-Jonathan.pdf
 https://www.infsoft.de/anwendungsbeispiele
 https://www.indoornavigation.de/
+
+Dokumentationen
+http://www.infrasoft.at/downloads/Dokumentation_in_der_Softwareentwicklung.pdf
